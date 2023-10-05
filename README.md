@@ -9,8 +9,14 @@
 ## GitHub status
 ![brksaian's profile views](https://komarev.com/ghpvc/?username=brksaian&color=green)
 <p>
-  <img height=190 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brksaian&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="brksaian's stats" />
-   <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brksaian&layout=compact&langs_count=7&theme=tokyonight" alt="brksaian's languages"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=brksaian&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Brksaian's stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brksaian&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Brksaian's languages" />
+</p>
+<p>
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=brksaian&theme=tokyonight&hide_border=true" alt="Brksaian's streak" />
+</p>
+<p>
+  <img height="190" src="https://github-profile-trophy.vercel.app?username=brksaian&theme=tokyonight&no-frame=true&margin-w=4" alt="Brksaian's Github trophies" />
 </p>
 
 ## WakaTime status
