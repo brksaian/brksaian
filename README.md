@@ -5,6 +5,7 @@
 
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Computer Engineering** from [Universidade Positivo](https://www.up.edu.br/)
+- 📚 &nbsp; Currently studying **Technology in Systems Analysis and Development** at [Universidade Federal do Paraná](https://ufpr.br/)
 
 ## GitHub status
 ![brksaian's profile views](https://komarev.com/ghpvc/?username=brksaian&color=green)
