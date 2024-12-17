@@ -30,7 +30,7 @@
   <img height=25 src="https://img.shields.io/github/followers/brksaian?label=follow&style=social" />
 </a>
 &nbsp;
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=braianviana@hotmail.com&tf=cm" title="GMail">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=braiangvn@gmail.com&tf=cm" title="GMail">
   <img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
